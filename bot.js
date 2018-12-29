@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
 
 const Eris = require("eris");
 var x5bzteam = new Eris("NTI3NjU3NDY2NTc4NzMxMDA4.DwgWvw.T9cnCrO1gWf9A3q-WJZtOI1OPKI");
