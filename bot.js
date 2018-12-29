@@ -1,4 +1,7 @@
-  client.on('message', function(msg) {
+ const Discord = require('discord.js');
+const client = new Discord.Client();
+
+client.on('message', function(msg) {
     const prefix = 'البرفيكس'
     if(msg.content.startsWith (prefix  + '528318975541641246')) {
       let embed = new Discord.RichEmbed()
