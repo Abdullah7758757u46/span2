@@ -13,7 +13,6 @@ client.channels.find('id', '526959084235128838').setName("Welcome");
 client.channels.find('id', '526959084235128838').setName("Welcome T");
 client.channels.find('id', '526959084235128838').setName("Welcome To");
 client.channels.find('id', '526959084235128838').setName("Welcome To s");
-client.channels.find('id', '526959084235128838').setName("Welcome To se");
 client.channels.find('id', '526959084235128838').setName("Welcome To ser");
 client.channels.find('id', '526959084235128838').setName("Welcome To serv");
 client.channels.find('id', '526959084235128838').setName("Welcome To server i");
