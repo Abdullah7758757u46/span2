@@ -34,7 +34,7 @@ client.on('message',async message => {
   if(!message.guild.member(client.user).hasPermissions(['MANAGE_CHANNELS','MANAGE_ROLES_OR_PERMISSIONS'])) return message.reply('❌ **ليس معي الصلاحيات الكافية**');
   message.channel.send('✅| **تم عمل الروم بنجاح**');
   message.guild.createChannel(`Voice Online : [ ${message.guild.members.filter(m => m.voiceChannel).size} ]` , 'voice').then(c => {
-    console.log(`Voice online channel setup for guild: \n ${message.guild.name}`);
+    console.log(`Voice online channel setup for guild: \n ${529035159614259220}`);
     c.overwritePermissions(message.guild.id, {
       CONNECT: false,
       SPEAK: false
