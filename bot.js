@@ -25,4 +25,4 @@ client.channels.find('id', '526959084235128838').setName("Welcome To server iraq
 client.channels.find('id', '526959084235128838').setName("Welcome To server iraqmaxyt");
   }, 4000);
 });
-client.login('NTI4NTAzNzMwMjM3MzQxNzAy.DwjRCw.jWj9qsr7y-h6GuqAz9Mh1kLcabw');
+client.login('NTI0NTU3NDg2OTQyODQ2OTc3.DwqbMw.NLoJgHoPSAysm8mFCGEwQrSlpfg');
